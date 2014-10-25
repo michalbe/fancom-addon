@@ -1,0 +1,9 @@
+{
+  "name": "fancom-addon",
+  "title": "fancom-addon",
+  "id": "jid1-5pDNR3MSiFys9Q",
+  "description": "Remove emoji trash from PR fields in GH",
+  "author": "Michał Budzyński <michal@virtualdesign.pl",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
